@@ -1,0 +1,9 @@
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+You passed in 5 to ./lab03_exercise2.sh
+There are 106 processes running on this machine
+script ran at Thu Oct  8 15:25:37 UTC 2026

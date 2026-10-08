@@ -1,0 +1,10 @@
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+You passed in 5 to ./lab03_exercise3.sh
+There are 106 processes running on this machine
+Maximum number of processes exceeded
+script ran at Thu Oct  8 15:31:21 UTC 2026
